@@ -1,0 +1,15 @@
+/* HUMANS.TXT — the signal behind the noise */
+
+/* AUTHOR */
+  Name: jobert
+  Handle: jobearrr
+  From: somewhere the grid is quieter
+  Noise: itsjobert.me
+  Signal: jobear.dev
+
+/* COLOPHON */
+  No frameworks were harmed in the making of this site.
+  The HTML source is a lie. The JS tells the truth.
+  If you found this file, you were already looking.
+
+/* /.well-known/ij-signal */
