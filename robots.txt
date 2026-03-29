@@ -1,0 +1,35 @@
+# the crawler arrived before the signal
+# nothing here was placed for you
+
+User-agent: *
+Allow: /
+
+# AI training crawlers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+# /.well-known/ij-signal
